@@ -1,0 +1,1301 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82",
+  "files": [],
+  "subMetas": {
+    "11088": {
+      "importer": "gltf-embeded-image",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@11088",
+      "displayName": "",
+      "id": "11088",
+      "name": "DiffuseColor_Texture_4.image",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "31777": {
+      "importer": "gltf-material",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@31777",
+      "displayName": "",
+      "id": "31777",
+      "name": "_M_2023_Honda_Civic_Type_R_WhiteMetal.material",
+      "userData": {
+        "gltfIndex": 20
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "33144": {
+      "importer": "gltf-mesh",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@33144",
+      "displayName": "",
+      "id": "33144",
+      "name": "Scene-18.mesh",
+      "userData": {
+        "gltfIndex": 18
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38652": {
+      "importer": "gltf-material",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@38652",
+      "displayName": "",
+      "id": "38652",
+      "name": "_M_2023_Honda_Civic_Type_R_BlackMetal.material",
+      "userData": {
+        "gltfIndex": 18
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "63219": {
+      "importer": "texture",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@63219",
+      "displayName": "",
+      "id": "63219",
+      "name": "DiffuseColor_Texture_2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "61320ab8-6172-42e8-9ab0-5df21259ed82@b0ccd"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "78975": {
+      "importer": "gltf-mesh",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@78975",
+      "displayName": "",
+      "id": "78975",
+      "name": "Rim_4_Material0-17.mesh",
+      "userData": {
+        "gltfIndex": 17
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "99d6c": {
+      "importer": "gltf-mesh",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@99d6c",
+      "displayName": "",
+      "id": "99d6c",
+      "name": "Scene-0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2c9ab": {
+      "importer": "gltf-mesh",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@2c9ab",
+      "displayName": "",
+      "id": "2c9ab",
+      "name": "Body_1_Material0-1.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a92c1": {
+      "importer": "gltf-mesh",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@a92c1",
+      "displayName": "",
+      "id": "a92c1",
+      "name": "Hood_1_Material0-2.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d6e72": {
+      "importer": "gltf-mesh",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@d6e72",
+      "displayName": "",
+      "id": "d6e72",
+      "name": "Front_Bumper_1_Material0-3.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3e21e": {
+      "importer": "gltf-mesh",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@3e21e",
+      "displayName": "",
+      "id": "3e21e",
+      "name": "Rear_Bumper_1_Material0-4.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6745b": {
+      "importer": "gltf-mesh",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@6745b",
+      "displayName": "",
+      "id": "6745b",
+      "name": "Scene-5.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d9666": {
+      "importer": "gltf-mesh",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@d9666",
+      "displayName": "",
+      "id": "d9666",
+      "name": "Chasis_Material0-6.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f2dff": {
+      "importer": "gltf-mesh",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@f2dff",
+      "displayName": "",
+      "id": "f2dff",
+      "name": "Scene-7.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "729dd": {
+      "importer": "gltf-mesh",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@729dd",
+      "displayName": "",
+      "id": "729dd",
+      "name": "Rim_1_Material0-8.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c05bc": {
+      "importer": "gltf-mesh",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@c05bc",
+      "displayName": "",
+      "id": "c05bc",
+      "name": "Scene-9.mesh",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9fa2a": {
+      "importer": "gltf-mesh",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@9fa2a",
+      "displayName": "",
+      "id": "9fa2a",
+      "name": "Scene-10.mesh",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bed4a": {
+      "importer": "gltf-mesh",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@bed4a",
+      "displayName": "",
+      "id": "bed4a",
+      "name": "Rim_2_Material0-11.mesh",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a1eb8": {
+      "importer": "gltf-mesh",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@a1eb8",
+      "displayName": "",
+      "id": "a1eb8",
+      "name": "Scene-12.mesh",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dde3d": {
+      "importer": "gltf-mesh",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@dde3d",
+      "displayName": "",
+      "id": "dde3d",
+      "name": "Scene-13.mesh",
+      "userData": {
+        "gltfIndex": 13
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "282fe": {
+      "importer": "gltf-mesh",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@282fe",
+      "displayName": "",
+      "id": "282fe",
+      "name": "Rim_3_Material0-14.mesh",
+      "userData": {
+        "gltfIndex": 14
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c43e3": {
+      "importer": "gltf-mesh",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@c43e3",
+      "displayName": "",
+      "id": "c43e3",
+      "name": "Scene-15.mesh",
+      "userData": {
+        "gltfIndex": 15
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e1277": {
+      "importer": "gltf-mesh",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@e1277",
+      "displayName": "",
+      "id": "e1277",
+      "name": "Scene-16.mesh",
+      "userData": {
+        "gltfIndex": 16
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fd73d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@fd73d",
+      "displayName": "",
+      "id": "fd73d",
+      "name": "DiffuseColor_Texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "b8dfd": {
+      "importer": "gltf-embeded-image",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@b8dfd",
+      "displayName": "",
+      "id": "b8dfd",
+      "name": "NormalMap_Texture.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "fb049": {
+      "importer": "gltf-embeded-image",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@fb049",
+      "displayName": "",
+      "id": "fb049",
+      "name": "NormalMap_Texture_1.image",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ca721": {
+      "importer": "gltf-embeded-image",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@ca721",
+      "displayName": "",
+      "id": "ca721",
+      "name": "DiffuseColor_Texture_1.image",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "b9fa2": {
+      "importer": "gltf-embeded-image",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@b9fa2",
+      "displayName": "",
+      "id": "b9fa2",
+      "name": "NormalMap_Texture_2.image",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "b0ccd": {
+      "importer": "gltf-embeded-image",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@b0ccd",
+      "displayName": "",
+      "id": "b0ccd",
+      "name": "DiffuseColor_Texture_2.image",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "088c7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@088c7",
+      "displayName": "",
+      "id": "088c7",
+      "name": "DiffuseColor_Texture_3.image",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "3c068": {
+      "importer": "gltf-embeded-image",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@3c068",
+      "displayName": "",
+      "id": "3c068",
+      "name": "NormalMap_Texture_3.image",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "8738b": {
+      "importer": "gltf-embeded-image",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@8738b",
+      "displayName": "",
+      "id": "8738b",
+      "name": "DiffuseColor_Texture_5.image",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ac3f4": {
+      "importer": "gltf-embeded-image",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@ac3f4",
+      "displayName": "",
+      "id": "ac3f4",
+      "name": "NormalMap_Texture_4.image",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "1cf76": {
+      "importer": "gltf-embeded-image",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@1cf76",
+      "displayName": "",
+      "id": "1cf76",
+      "name": "NormalMap_Texture_5.image",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "4f17a": {
+      "importer": "texture",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@4f17a",
+      "displayName": "",
+      "id": "4f17a",
+      "name": "DiffuseColor_Texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "61320ab8-6172-42e8-9ab0-5df21259ed82@fd73d"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2a10f": {
+      "importer": "texture",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@2a10f",
+      "displayName": "",
+      "id": "2a10f",
+      "name": "NormalMap_Texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "61320ab8-6172-42e8-9ab0-5df21259ed82@b8dfd"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1542f": {
+      "importer": "texture",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@1542f",
+      "displayName": "",
+      "id": "1542f",
+      "name": "NormalMap_Texture_1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "61320ab8-6172-42e8-9ab0-5df21259ed82@fb049"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "05a41": {
+      "importer": "texture",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@05a41",
+      "displayName": "",
+      "id": "05a41",
+      "name": "DiffuseColor_Texture_1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "61320ab8-6172-42e8-9ab0-5df21259ed82@ca721"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "59f6b": {
+      "importer": "texture",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@59f6b",
+      "displayName": "",
+      "id": "59f6b",
+      "name": "NormalMap_Texture_2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "61320ab8-6172-42e8-9ab0-5df21259ed82@b9fa2"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "04f7a": {
+      "importer": "texture",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@04f7a",
+      "displayName": "",
+      "id": "04f7a",
+      "name": "DiffuseColor_Texture_3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "61320ab8-6172-42e8-9ab0-5df21259ed82@088c7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3e1f9": {
+      "importer": "texture",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@3e1f9",
+      "displayName": "",
+      "id": "3e1f9",
+      "name": "DiffuseColor_Texture_4.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "61320ab8-6172-42e8-9ab0-5df21259ed82@11088"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b2a72": {
+      "importer": "texture",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@b2a72",
+      "displayName": "",
+      "id": "b2a72",
+      "name": "NormalMap_Texture_3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "61320ab8-6172-42e8-9ab0-5df21259ed82@3c068"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "262be": {
+      "importer": "texture",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@262be",
+      "displayName": "",
+      "id": "262be",
+      "name": "DiffuseColor_Texture_5.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "61320ab8-6172-42e8-9ab0-5df21259ed82@8738b"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "39ef6": {
+      "importer": "texture",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@39ef6",
+      "displayName": "",
+      "id": "39ef6",
+      "name": "NormalMap_Texture_4.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "61320ab8-6172-42e8-9ab0-5df21259ed82@ac3f4"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1b18e": {
+      "importer": "texture",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@1b18e",
+      "displayName": "",
+      "id": "1b18e",
+      "name": "NormalMap_Texture_5.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "61320ab8-6172-42e8-9ab0-5df21259ed82@1cf76"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e01ae": {
+      "importer": "gltf-material",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@e01ae",
+      "displayName": "",
+      "id": "e01ae",
+      "name": "_dirt.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0c618": {
+      "importer": "gltf-material",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@0c618",
+      "displayName": "",
+      "id": "0c618",
+      "name": "_M_2023_Honda_Civic_Type_R_Champonship_Gray.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b88fa": {
+      "importer": "gltf-material",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@b88fa",
+      "displayName": "",
+      "id": "b88fa",
+      "name": "_M_2023_Honda_Civic_Type_R_BlackRoughPlastics.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "534a3": {
+      "importer": "gltf-material",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@534a3",
+      "displayName": "",
+      "id": "534a3",
+      "name": "_M_2023_Honda_Civic_Type_R_BlackShinyPlatics.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6ed75": {
+      "importer": "gltf-material",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@6ed75",
+      "displayName": "",
+      "id": "6ed75",
+      "name": "_M_2023_Honda_Civic_Type_R_Interior1.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4e9ef": {
+      "importer": "gltf-material",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@4e9ef",
+      "displayName": "",
+      "id": "4e9ef",
+      "name": "_M_2023_Honda_Civic_Type_R_RedSeats.material",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f665d": {
+      "importer": "gltf-material",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@f665d",
+      "displayName": "",
+      "id": "f665d",
+      "name": "_M_2023_Honda_Civic_Type_R_Carbon.material",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b2571": {
+      "importer": "gltf-material",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@b2571",
+      "displayName": "",
+      "id": "b2571",
+      "name": "_M_2023_Honda_Civic_Type_R_Touchscreen2.material",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "20d41": {
+      "importer": "gltf-material",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@20d41",
+      "displayName": "",
+      "id": "20d41",
+      "name": "_M_2023_Honda_Civic_Type_R_undercarry.material",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5c7e9": {
+      "importer": "gltf-material",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@5c7e9",
+      "displayName": "",
+      "id": "5c7e9",
+      "name": "_M_2023_Honda_Civic_Type_R_LightsRedPlastics.material",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "82e51": {
+      "importer": "gltf-material",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@82e51",
+      "displayName": "",
+      "id": "82e51",
+      "name": "_M_2023_Honda_Civic_Type_R_LightsRedDarkPlastics.material",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ab100": {
+      "importer": "gltf-material",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@ab100",
+      "displayName": "",
+      "id": "ab100",
+      "name": "_M_2023_Honda_Civic_Type_R_LightShinyPlastics.material",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3d92a": {
+      "importer": "gltf-material",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@3d92a",
+      "displayName": "",
+      "id": "3d92a",
+      "name": "_M_2023_Honda_Civic_Type_R_Chrome.material",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e9779": {
+      "importer": "gltf-material",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@e9779",
+      "displayName": "",
+      "id": "e9779",
+      "name": "_M_2023_Honda_Civic_Type_R_Windows.material",
+      "userData": {
+        "gltfIndex": 13
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2d1d7": {
+      "importer": "gltf-material",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@2d1d7",
+      "displayName": "",
+      "id": "2d1d7",
+      "name": "_M_2023_Honda_Civic_Type_R_LightsGlass_Red.material",
+      "userData": {
+        "gltfIndex": 14
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a909d": {
+      "importer": "gltf-material",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@a909d",
+      "displayName": "",
+      "id": "a909d",
+      "name": "_M_2023_Honda_Civic_Type_R_LightsGlass_White.material",
+      "userData": {
+        "gltfIndex": 15
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "84d0a": {
+      "importer": "gltf-material",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@84d0a",
+      "displayName": "",
+      "id": "84d0a",
+      "name": "_M_2023_Honda_Civic_Type_R_Mirror.material",
+      "userData": {
+        "gltfIndex": 16
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "241f6": {
+      "importer": "gltf-material",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@241f6",
+      "displayName": "",
+      "id": "241f6",
+      "name": "_M_2023_Honda_Civic_Type_R_Grille.material",
+      "userData": {
+        "gltfIndex": 17
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f06dc": {
+      "importer": "gltf-material",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@f06dc",
+      "displayName": "",
+      "id": "f06dc",
+      "name": "_M_2023_Honda_Civic_Type_R_RedMetal.material",
+      "userData": {
+        "gltfIndex": 19
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a1e7b": {
+      "importer": "gltf-material",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@a1e7b",
+      "displayName": "",
+      "id": "a1e7b",
+      "name": "_M_2023_Honda_Civic_Type_R_tire.material",
+      "userData": {
+        "gltfIndex": 21
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "54d60": {
+      "importer": "gltf-scene",
+      "uuid": "61320ab8-6172-42e8-9ab0-5df21259ed82@54d60",
+      "displayName": "",
+      "id": "54d60",
+      "name": "Civic-003.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "DiffuseColor_Texture",
+        "uri": "61320ab8-6172-42e8-9ab0-5df21259ed82@fd73d"
+      },
+      {
+        "name": "NormalMap_Texture",
+        "uri": "61320ab8-6172-42e8-9ab0-5df21259ed82@b8dfd"
+      },
+      {
+        "name": "NormalMap_Texture_1",
+        "uri": "61320ab8-6172-42e8-9ab0-5df21259ed82@fb049"
+      },
+      {
+        "name": "DiffuseColor_Texture_1",
+        "uri": "61320ab8-6172-42e8-9ab0-5df21259ed82@ca721"
+      },
+      {
+        "name": "NormalMap_Texture_2",
+        "uri": "61320ab8-6172-42e8-9ab0-5df21259ed82@b9fa2"
+      },
+      {
+        "name": "DiffuseColor_Texture_2",
+        "uri": "61320ab8-6172-42e8-9ab0-5df21259ed82@b0ccd"
+      },
+      {
+        "name": "DiffuseColor_Texture_3",
+        "uri": "61320ab8-6172-42e8-9ab0-5df21259ed82@088c7"
+      },
+      {
+        "name": "DiffuseColor_Texture_4",
+        "uri": "61320ab8-6172-42e8-9ab0-5df21259ed82@11088"
+      },
+      {
+        "name": "NormalMap_Texture_3",
+        "uri": "61320ab8-6172-42e8-9ab0-5df21259ed82@3c068"
+      },
+      {
+        "name": "DiffuseColor_Texture_5",
+        "uri": "61320ab8-6172-42e8-9ab0-5df21259ed82@8738b"
+      },
+      {
+        "name": "NormalMap_Texture_4",
+        "uri": "61320ab8-6172-42e8-9ab0-5df21259ed82@ac3f4"
+      },
+      {
+        "name": "NormalMap_Texture_5",
+        "uri": "61320ab8-6172-42e8-9ab0-5df21259ed82@1cf76"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "61320ab8-6172-42e8-9ab0-5df21259ed82@54d60",
+    "assetFinder": {
+      "meshes": [
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@99d6c",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@2c9ab",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@a92c1",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@d6e72",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@3e21e",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@6745b",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@d9666",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@f2dff",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@729dd",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@c05bc",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@9fa2a",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@bed4a",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@a1eb8",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@dde3d",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@282fe",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@c43e3",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@e1277",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@78975",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@33144"
+      ],
+      "skeletons": [],
+      "textures": [
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@4f17a",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@2a10f",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@1542f",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@05a41",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@59f6b",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@63219",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@04f7a",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@3e1f9",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@b2a72",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@262be",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@39ef6",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@1b18e"
+      ],
+      "materials": [
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@e01ae",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@0c618",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@b88fa",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@534a3",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@6ed75",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@4e9ef",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@f665d",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@b2571",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@20d41",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@5c7e9",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@82e51",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@ab100",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@3d92a",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@e9779",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@2d1d7",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@a909d",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@84d0a",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@241f6",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@38652",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@f06dc",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@31777",
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@a1e7b"
+      ],
+      "scenes": [
+        "61320ab8-6172-42e8-9ab0-5df21259ed82@54d60"
+      ]
+    }
+  }
+}
